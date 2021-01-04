@@ -2,11 +2,11 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   root: {
-    backgroundColor: 'cornflowerblue',
-    justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: 'cornflowerblue',
     borderColor: 'yellow',
     borderWidth: 1,
+    justifyContent: 'center',
   },
 });
 
